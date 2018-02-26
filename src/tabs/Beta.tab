@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Apps under construction</description>
+    <label>Beta</label>
+    <mobileReady>false</mobileReady>
+    <motif>Custom19: Wrench</motif>
+    <page>Start_Here</page>
+</CustomTab>
